@@ -1,6 +1,6 @@
 export default {
     name: 'courseModule',
-    title: 'Module',
+    title: 'Modules',
     type: 'document',
     fields: [
         {

@@ -2,7 +2,7 @@ import { array } from 'prop-types'
 
 export default {
     name: 'course',
-    title: 'Course',
+    title: 'Courses',
     type: 'document',
     fields: [
         {

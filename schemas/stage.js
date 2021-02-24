@@ -1,6 +1,6 @@
 export default {
     name: 'stage',
-    title: 'Stage',
+    title: 'Stages',
     type: 'document',
     fields: [
         {
